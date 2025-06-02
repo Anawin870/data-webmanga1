@@ -50,27 +50,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "Fight class 3",
-      "title": "Fight class 3",
-      "cover": "Test",
-      "author": "Test",
-      "status": "ongoing",
-      "genres": [
-        "Test"
-      ],
-      "description": "Test",
-      "chapters": [
-        {
-          "number": "1",
-          "title": "ยกที่1",
-          "date": "2025-6-2",
-          "pages": [
-            "tseT"
-          ]
-        }
-      ]
     }
   ]
 }
