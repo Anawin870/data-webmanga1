@@ -1,55 +1,76 @@
 {
-    "manga": [
+  "manga": [
+    {
+      "id": 1,
+      "title": "Fight Class 3",
+      "author": "Lee Hak (이학)",
+      "status": "ยังไม่จบ",
+      "genres": [
+        "แอคชั่น",
+        "ดราม่า",
+        "โรงเรียน"
+      ],
+      "description": "เด็กหนุ่มอ่อนแอต้องเข้าร่วมชมรมต่อสู้สุดโหดในโรงเรียน เพื่อแลกกับการตามหาน้องสาวที่หายตัวไป การฝึกฝนสุดเคี่ยวและอันตรายรอเขาอยู่ พร้อมกับความลับดำมืดเบื้องหลังโลกแห่งการต่อสู้",
+      "cover": "test",
+      "chapters": [
         {
-            "id": 1,
-            "title": "Fight Class 3",
-            "author": "Lee Hak (이학)",
-            "status": "ยังไม่จบ",
-            "genres": [
-                "แอคชั่น",
-                "ดราม่า",
-                "โรงเรียน"
-            ],
-            "description": "เด็กหนุ่มอ่อนแอต้องเข้าร่วมชมรมต่อสู้สุดโหดในโรงเรียน เพื่อแลกกับการตามหาน้องสาวที่หายตัวไป การฝึกฝนสุดเคี่ยวและอันตรายรอเขาอยู่ พร้อมกับความลับดำมืดเบื้องหลังโลกแห่งการต่อสู้",
-            "cover": "test",
-            "chapters": [
-                {
-                    "number": 1,
-                    "title": "ยกที่1",
-                    "pages": [
-                        "https://img5.pic.in.th/file/secure-sv1/1000037499.jpeg",
-                        "https://img2.pic.in.th/pic/1000037498586483c98c1d6756.png",
-                        "https://img2.pic.in.th/pic/10000374974557e88296b3e46d.jpg",
-                        "https://img2.pic.in.th/pic/1000037496.jpeg",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037495.jpeg",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037494.jpg",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037493.jpeg",
-                        "https://img5.pic.in.th/file/secure-sv1/100003749225b9cd59b4869833.jpeg",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037491.jpg",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037490.jpeg",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037487.png",
-                        "https://img2.pic.in.th/pic/1000037488.png",
-                        "https://img2.pic.in.th/pic/1000037489.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037486.png",
-                        "https://img2.pic.in.th/pic/1000037485.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037484.png",
-                        "https://img2.pic.in.th/pic/1000037483.png",
-                        "https://img2.pic.in.th/pic/1000037482.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037481.png",
-                        "https://img2.pic.in.th/pic/1000037480.png",
-                        "https://img2.pic.in.th/pic/1000037479.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037478.png",
-                        "https://img2.pic.in.th/pic/1000037477.png",
-                        "https://img2.pic.in.th/pic/1000037476486355b2ca868d96.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037475.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037474.png",
-                        "https://img2.pic.in.th/pic/1000037473.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037472.png",
-                        "https://img2.pic.in.th/pic/1000037471.png",
-                        "https://img5.pic.in.th/file/secure-sv1/1000037470.png"
-                    ]
-                }
-            ]
+          "number": 1,
+          "title": "ยกที่1",
+          "pages": [
+            "https://img5.pic.in.th/file/secure-sv1/1000037499.jpeg",
+            "https://img2.pic.in.th/pic/1000037498586483c98c1d6756.png",
+            "https://img2.pic.in.th/pic/10000374974557e88296b3e46d.jpg",
+            "https://img2.pic.in.th/pic/1000037496.jpeg",
+            "https://img5.pic.in.th/file/secure-sv1/1000037495.jpeg",
+            "https://img5.pic.in.th/file/secure-sv1/1000037494.jpg",
+            "https://img5.pic.in.th/file/secure-sv1/1000037493.jpeg",
+            "https://img5.pic.in.th/file/secure-sv1/100003749225b9cd59b4869833.jpeg",
+            "https://img5.pic.in.th/file/secure-sv1/1000037491.jpg",
+            "https://img5.pic.in.th/file/secure-sv1/1000037490.jpeg",
+            "https://img5.pic.in.th/file/secure-sv1/1000037487.png",
+            "https://img2.pic.in.th/pic/1000037488.png",
+            "https://img2.pic.in.th/pic/1000037489.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037486.png",
+            "https://img2.pic.in.th/pic/1000037485.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037484.png",
+            "https://img2.pic.in.th/pic/1000037483.png",
+            "https://img2.pic.in.th/pic/1000037482.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037481.png",
+            "https://img2.pic.in.th/pic/1000037480.png",
+            "https://img2.pic.in.th/pic/1000037479.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037478.png",
+            "https://img2.pic.in.th/pic/1000037477.png",
+            "https://img2.pic.in.th/pic/1000037476486355b2ca868d96.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037475.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037474.png",
+            "https://img2.pic.in.th/pic/1000037473.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037472.png",
+            "https://img2.pic.in.th/pic/1000037471.png",
+            "https://img5.pic.in.th/file/secure-sv1/1000037470.png"
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": "Fight class 3",
+      "title": "Fight class 3",
+      "cover": "Test",
+      "author": "Test",
+      "status": "ongoing",
+      "genres": [
+        "Test"
+      ],
+      "description": "Test",
+      "chapters": [
+        {
+          "number": "1",
+          "title": "ยกที่1",
+          "date": "2025-6-2",
+          "pages": [
+            "tseT"
+          ]
+        }
+      ]
+    }
+  ]
 }
