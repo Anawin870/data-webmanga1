@@ -651,6 +651,18 @@
           ]
         }
       ]
+    },
+    {
+      "id": "Solo Leveling",
+      "title": "Solo Leveling",
+      "cover": "https://img5.pic.in.th/file/secure-sv1/1000037978.jpg",
+      "author": ".",
+      "status": "completed",
+      "genres": [
+        "."
+      ],
+      "description": ".",
+      "chapters": []
     }
   ]
 }
