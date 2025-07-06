@@ -679,18 +679,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "Test",
-      "title": "Test",
-      "cover": "test.png",
-      "author": "Test",
-      "status": "ongoing",
-      "genres": [
-        "Tet"
-      ],
-      "description": "Te",
-      "chapters": []
     }
   ]
 }
